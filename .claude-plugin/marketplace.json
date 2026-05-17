@@ -2,20 +2,20 @@
   "name": "karpathy-skills",
   "id": "karpathy-skills",
   "owner": {
-    "name": "forrestchang"
+    "name": "onemott"
   },
   "metadata": {
-    "description": "Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations",
-    "version": "1.0.0"
+    "description": "Expanded behavioral guidelines to reduce common LLM coding mistakes (12 rules), forked from Karpathy's observations",
+    "version": "2.0.0"
   },
   "plugins": [
     {
       "name": "andrej-karpathy-skills",
       "source": "./",
-      "description": "Behavioral guidelines to reduce common LLM coding mistakes: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution",
-      "version": "1.0.0",
+      "description": "12-rule expanded behavioral guidelines: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution, Use Model for Judgment, Token Budgets, Surface Conflicts, Read Before Write, Tests Verify Intent, Checkpoint, Match Conventions, Fail Loud",
+      "version": "2.0.0",
       "author": {
-        "name": "forrestchang"
+        "name": "onemott"
       },
       "keywords": [
         "guidelines",
