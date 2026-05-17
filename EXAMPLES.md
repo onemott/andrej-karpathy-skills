@@ -1,6 +1,6 @@
 # Examples
 
-Real-world code examples demonstrating the four principles. Each example shows what LLMs commonly do wrong and how to fix it.
+Real-world code examples demonstrating the twelve principles. Each example shows what LLMs commonly do wrong and how to fix it.
 
 ---
 
